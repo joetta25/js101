@@ -27,3 +27,4 @@ function lvl4exercise6 (bool1, bool2) {
   // Return the logical "equivalence" of the input boolean values
 return bool1 == bool2;
 }
+console.log("hello world");
